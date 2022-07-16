@@ -5,5 +5,5 @@
 $host       = getenv('allanasample.mysql.database.azure.com');
 $username   = getenv('allana');
 $password   = getenv('Sample@13');
-$db_name     = getenv('DB_DATABASE');
+$db_name     = getenv('allanadb');
 $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
