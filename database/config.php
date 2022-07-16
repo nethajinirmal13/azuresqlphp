@@ -2,7 +2,7 @@
 
 // Configuration for database connection
 
-$host       = getenv('DB_HOST');
+$host       = getenv('allanasample.mysql.database.azure.com');
 $username   = getenv('allana');
 $password   = getenv('Sample@13');
 $db_name     = getenv('DB_DATABASE');
